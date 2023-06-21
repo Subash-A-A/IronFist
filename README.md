@@ -1,4 +1,5 @@
 # IronFirst
+The theme for the 26th ScoreJam is "COLLECT".
 This is my submission for ScoreSpace Jam #26 made in 3 days.
 play the game --> https://iamsubash.itch.io/iron-fist (Available for download too).
 
